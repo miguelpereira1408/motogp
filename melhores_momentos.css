@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    background-image: url(motociclistas.jpeg);
+    width: 100%;
+    height: 157vh;
+    text-align: justify;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bannerinfo{
+    background-color: #ffffffab;
+}

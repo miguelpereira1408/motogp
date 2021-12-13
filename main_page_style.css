@@ -1,0 +1,73 @@
+body {
+    background-image: url(imagem_base.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h2 {
+    font-style: italic;
+}
+
+
+h4 {
+    text-align: justify
+}
+
+
+
+.banner {
+    background-color: #ffffffab;
+    padding: 5px;
+    margin: 30px;
+}
+
+
+
+
+
+header {
+    text-align: right;
+}
+
+
+a, li{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+.menu {
+    display: flex;
+}
+
+
+.menu li {
+    margin: 0 30px;
+    display: flex;
+    background-color: black;
+    padding: 7px 14px;
+}
+
+.menu li:hover {
+    background-color: #ffffffe5;
+}
+
+.menu li a:hover {
+    color: black;
+}
+
+
+
+a {
+    color: #ffffffe5;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+

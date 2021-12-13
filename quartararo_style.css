@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.banner{
+    background-image: url(fabio.jpeg);
+    background-size: contain ;
+    width: 100%;
+    text-align: justify;
+}
+
+.banner-info{
+    background-color: #ffffffab;
+}
+
+
